@@ -1,7 +1,6 @@
 <p align="center">
   
-![Image](https://github.com/user-attachments/assets/fff316f9-b508-4214-9019-39caac5db711)
-</p>
+![Image](https://github.com/user-attachments/assets/5cde0913-0053-42bf-8927-9adcce00239b)
 
 <h1>osTicket - Prerequisites and Installation</h1>
 This step by step tutorial will guide you through the prerequisites and installation of osTicket.<br />
