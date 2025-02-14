@@ -126,8 +126,22 @@ h3>Step 5: Changing Client-1 DNS Setting</h3>
 ![Image](https://github.com/user-attachments/assets/20cb5c53-5460-4590-ac94-9af291523e40)
 
 
+h3>Step 6: Changing DC-1 VM Firewall Settings</h3>
 
-h3>Step 6: Changing Client-1 DNS Setting</h3>
+- Login to DC-1
+- Open Control Panel (Press Win + R, type control, and press Enter).
+- Click System and Security → Windows Defender Firewall.
+- In the left menu, click Turn Windows Defender Firewall on or off.
+- For each profile shows switch the Firewall State for On → Off
+
+![Image](https://github.com/user-attachments/assets/00ae1811-62de-41b3-80de-60467d1e79c9)
+
+![Image](https://github.com/user-attachments/assets/ed1c2775-4af0-4fd8-8caf-cadd21827a66)
+
+![Image](https://github.com/user-attachments/assets/a497a335-fdf6-4d70-81ae-b42a467a57c9)
+
+
+h3>Step 7: Changing Client-1 DNS Setting</h3>
 
 - Login to Client-1
 
