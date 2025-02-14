@@ -139,4 +139,7 @@ h3>Step 6: Changing Client-1 DNS Setting</h3>
 
 - The output for the DNS settings should show DC-1’s private IP Address
 
-![Image](https://github.com/user-attachments/assets/d515031a-704b-4d22-8668-40e87a4693e3)
+
+![Image](https://github.com/user-attachments/assets/8f9d11b9-e466-44ad-a36e-830c3edcd386)
+
+![Image](https://github.com/user-attachments/assets/2e002bd8-2636-40dd-b397-285fc6b1bf2c)
