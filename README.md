@@ -19,6 +19,13 @@ This step by step tutorial will guide you through the prerequisites and installa
 
 
 
+
+
+
+
+
+
+
 <h3>Step 1: Creating the Resource Group and Virtual Network</h3>
 
 -Log in to Azure Portal.
@@ -137,3 +144,9 @@ h3>Step 6: Changing Client-1 DNS Setting</h3>
 ![Image](https://github.com/user-attachments/assets/8f9d11b9-e466-44ad-a36e-830c3edcd386)
 
 ![Image](https://github.com/user-attachments/assets/2e002bd8-2636-40dd-b397-285fc6b1bf2c)
+
+
+
+
+<h2>osTicket:Active Directory VMs are all setup</h2>
+
