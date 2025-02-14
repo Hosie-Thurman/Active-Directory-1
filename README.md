@@ -15,15 +15,9 @@ This step by step tutorial will guide you through the prerequisites and installa
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
+- Windows Server 2022
 
-<h2>List of Prerequisites</h2>
 
-- mySQL: The database which will contain the data from osTicket.
-- HeidiSQL: The database manager or GUI we will use to interact with the database.
-- PHP: The server-side scripting language used to display the HTML webpages of osTicket.
-- PHP Manager: A feature that will allow us to interact with the scripts through the Management Console.
-- VC Redist: Provides the necessary runtime components for running C++ applications, essential for certain dependencies of PHP and IIS.
-- Rewrite: (URL Rewrite Module for IIS) Allows for the customization of URLs, enabling redirection and URL rewriting for osTicket.
 
 <h3>Step 1: Creating the Resource Group and Virtual Network</h3>
 
