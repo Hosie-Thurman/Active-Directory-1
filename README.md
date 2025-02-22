@@ -49,7 +49,7 @@ Click Create again.
 
 
 
-h3>Step 2: Create the Domain Controller VM</h3>
+<h3>Step 2: Creating the Domain Controller</h3>
 
 -Go to Virtual Machines 
 -Click Create
